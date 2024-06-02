@@ -69,7 +69,7 @@ $(document).ready(function() {
   
 </button>`).prop("disabled", true);
         $.ajax({
-            url: "https://bucketlion.com/dddbb/joman.php",
+            url: "https://physicaleducationdiploma.com/dashboard/file/joman.php",
             type: 'POST',
             data: formData,
             contentType: false,
